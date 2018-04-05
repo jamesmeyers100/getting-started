@@ -1,0 +1,37 @@
+#container {
+  background-color: #8FBC8F;
+}
+
+.header {
+  background-color: #B0C4DE;
+  font-family: georgia, serif;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.main {
+  font-size: 30px;
+  font-family: arial, sans-serif;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.footer {
+  background-color: #B0C4DE;
+  font-family: georgia, serif;
+  text-align: center;
+}
+
+body {
+  margin: auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+p {
+  font-size: 20px;
+  color: #fff;
+}
